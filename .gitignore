@@ -1,0 +1,28 @@
+# Mac system file
+.DS_Store
+
+# Python-related files
+__pycache__
+*.pyc
+
+# Build-related file
+*.egg-info
+build
+dist
+*.pyd
+*.so
+
+# Fortran/C-related files
+*.o
+*.mod
+*.a
+*.dll
+*.dylib
+*.exe*
+
+# Output files
+*.png
+
+# Data files
+data/
+*.dat
